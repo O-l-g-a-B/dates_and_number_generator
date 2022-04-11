@@ -9,7 +9,7 @@ let options = {
     day: "numeric",
     hour: "numeric",
     minute: "numeric",
-    timezone: "numeric",
+    timezone: "UTC",
 };
 
 function formatDate() {
